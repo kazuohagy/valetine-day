@@ -28,6 +28,6 @@ window.addEventListener('load', function() {
     botao2.addEventListener('click', posso);
 
     function posso() {
-        alert("Obrigado vou avisar o pessoal aqui");
+        alert("Parabens você fez uma boa escolha ❤️💘💖");
     }
 });

@@ -7,7 +7,7 @@ import "./funcao.js";
 export const Container = () => {
     return (
         <div className="container">
-            <h1>Dia dos Namorados</h1>
+            <h1>Feliz dia dos Namorados</h1>
             <p>Você quer namorar comigo?</p>
             <div className="pergunta">
                 <Button id="peach" classe="button" value="Sim"/>
