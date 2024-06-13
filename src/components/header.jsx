@@ -7,12 +7,12 @@ export const Header = () => {
         <header className="solteiros">
             <nav className="mario">
                 <ul className="quarto"> 
-                    <li>
+                    {/* <li>
                         <a href="/">Oi Kazuo tudo bem?</a>
                     </li>
                     <li>
                         <a href="/about">Posso pegar seu numéro?</a>
-                    </li>
+                    </li> */}
                     <li>
                         <a href="https://github.com/kazuohagy" target="_blank">Contact Kazuo</a>
                     </li>
