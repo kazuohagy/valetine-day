@@ -1,0 +1,20 @@
+.mario{
+    display:flex;
+    width:100%;
+}
+.solteiro{
+    width:100%;
+}
+a{
+    display:flex;
+    text-decoration:none;
+    list-style: none;
+}
+.quarto{
+    display:flex;
+    text-decoration:none;
+    list-style: none;
+}
+ul{
+    gap:30px;
+}
